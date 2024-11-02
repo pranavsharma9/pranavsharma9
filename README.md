@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Serif+Pro&weight=600&size=60&duration=8000&pause=1000&color=efe5fd&center=true&vCenter=true&width=800&lines=+_%2F%5C_+NAMASTE+_%2F%5C_;Hi+I+am+Pranav!" alt="Typing SVG" /></a></p>
 
 >[!IMPORTANT]\
-> **Master in CS at UIUC | Graduate Research Assistant at SALT Labs | Former Data Scientist at IBM**
+> **Master in CS at UIUC | Graduate Research Assistant at SALT Labs | Former Data Scientist at IBM** <br>
 >I’m currently building projects on **Machine Learning | Natural Language Processing | Computer Vision** <br>
 >I’m working in the intersection of **Generative AI | Cloud Computing | Software Engineering** <br>
 >Know about my experiences [HERE](https://drive.google.com/file/d/1mCNHMcQJyPEwIjeUurvqvHdeUi-hTpOf/view?usp=sharing) <br>
@@ -66,4 +66,3 @@
 ![REST](https://img.shields.io/badge/rest-%2320232a.svg?style=for-the-badge&logo=rest&logoColor=white)
 ![Agile](https://img.shields.io/badge/agile-%23000000.svg?style=for-the-badge)
 ![Unit Testing](https://img.shields.io/badge/unit%20testing-%23000.svg?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
