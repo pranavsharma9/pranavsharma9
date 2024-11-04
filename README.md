@@ -21,7 +21,6 @@
   </a>
 </p>
 
-
 ### **TECHNICAL SKILLS**
 
 **Programming Languages:** <br>
