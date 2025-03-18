@@ -12,6 +12,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ps511/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranavsharma9" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/pspranavsharma9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavsharma9" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=taEsNisAAAAJ&hl=en&oi=sra" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/pranavsharma9/Exploring-Image-Characteristics-to-Augment-Defense-against-Adversarial-Attacks/refs/heads/master/report/icons8-google-scholar.svg?token=GHSAT0AAAAAAC6C5Y7YUZ4QOHSOAXA7FBOSZ6ZZWKQ" alt="Google Scholar" height="30" width="40" />
+</a>
 
 
 <p align="center">
