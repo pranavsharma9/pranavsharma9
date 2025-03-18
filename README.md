@@ -22,8 +22,8 @@
 <!--   <a href="https://quira.sh?utm_source=widgets&utm_campaign=pranavsharma9">
     <img src="https://stats.quira.sh/pranavsharma9/github?theme=dark" alt="Pranav's GitHub | Stats" width="360"/>
   </a> -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pranavsharma9" alt="GitHub Streak" /></a>
 </p>
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavsharma9&hide=contribs,prs)
 
 
 ### **TECHNICAL SKILLS**
