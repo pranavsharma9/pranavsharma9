@@ -19,9 +19,10 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450" />
-  <a href="https://quira.sh?utm_source=widgets&utm_campaign=pranavsharma9">
+<!--   <a href="https://quira.sh?utm_source=widgets&utm_campaign=pranavsharma9">
     <img src="https://stats.quira.sh/pranavsharma9/github?theme=dark" alt="Pranav's GitHub | Stats" width="360"/>
-  </a>
+  </a> -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ### **TECHNICAL SKILLS**
