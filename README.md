@@ -23,7 +23,7 @@
     <img src="https://stats.quira.sh/pranavsharma9/github?theme=dark" alt="Pranav's GitHub | Stats" width="360"/>
   </a> -->
 </p>
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavsharma9&hide=contribs,prs)
+
 
 
 ### **TECHNICAL SKILLS**
