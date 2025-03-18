@@ -11,7 +11,10 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ps511/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranavsharma9" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=taEsNisAAAAJ&hl=en&oi=sra"><span class="icon icon-link icon--google-scholar">{% include icon-google-scholar.svg %}</span></a>
+<a href="https://scholar.google.com/citations?user=taEsNisAAAAJ&hl=en&oi=sra" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" />
+</a>
+
 <a href="https://leetcode.com/u/pspranavsharma9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavsharma9" height="30" width="40" /></a>
 
 
